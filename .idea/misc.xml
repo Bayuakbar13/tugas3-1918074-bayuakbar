@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SEMESTER 5/pratikum bayu/tugas/pertemuan 3/app/src/main/res/drawable-v24/ic_icon_chat.xml" value="0.1925925925925926" />
+        <entry key="..\:/SEMESTER 5/pratikum bayu/tugas/pertemuan 3/app/src/main/res/drawable-v24/ic_icon_message.xml" value="0.1925925925925926" />
+        <entry key="..\:/SEMESTER 5/pratikum bayu/tugas/pertemuan 3/app/src/main/res/drawable-v24/ic_icon_profile.xml" value="0.1925925925925926" />
+        <entry key="..\:/SEMESTER 5/pratikum bayu/tugas/pertemuan 3/app/src/main/res/drawable/icon_add_name.xml" value="0.2203125" />
+        <entry key="..\:/SEMESTER 5/pratikum bayu/tugas/pertemuan 3/app/src/main/res/drawable/icon_dolar.xml" value="0.2203125" />
+        <entry key="..\:/SEMESTER 5/pratikum bayu/tugas/pertemuan 3/app/src/main/res/drawable/icon_email.xml" value="0.2203125" />
+        <entry key="..\:/SEMESTER 5/pratikum bayu/tugas/pertemuan 3/app/src/main/res/drawable/icon_merek.xml" value="0.2203125" />
+        <entry key="..\:/SEMESTER 5/pratikum bayu/tugas/pertemuan 3/app/src/main/res/drawable/icon_password.xml" value="0.2203125" />
+        <entry key="..\:/SEMESTER 5/pratikum bayu/tugas/pertemuan 3/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/SEMESTER 5/pratikum bayu/tugas/pertemuan 3/app/src/main/res/layout/fragmant_chat.xml" value="0.15" />
+        <entry key="..\:/SEMESTER 5/pratikum bayu/tugas/pertemuan 3/app/src/main/res/layout/fragmant_message.xml" value="0.1" />
+        <entry key="..\:/SEMESTER 5/pratikum bayu/tugas/pertemuan 3/app/src/main/res/layout/fragmant_profile.xml" value="0.25" />
+        <entry key="..\:/SEMESTER 5/pratikum bayu/tugas/pertemuan 3/app/src/main/res/layout/naw_header.xml" value="0.25" />
+        <entry key="..\:/SEMESTER 5/pratikum bayu/tugas/pertemuan 3/app/src/main/res/menu/draw_menu.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
